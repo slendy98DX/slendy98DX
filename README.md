@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=slendy98DX)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anuraghazra&show_icons=true)
 
 <!--
 **slendy98DX/slendy98DX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
