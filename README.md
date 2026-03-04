@@ -18,6 +18,11 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![3DEXPERIENCE](https://img.shields.io/badge/3DEXPERIENCE-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![AVIO](https://img.shields.io/badge/AVIO-4B0082?style=for-the-badge)
+![Pirelli](https://img.shields.io/badge/Pirelli-000000?style=for-the-badge)
+![ADSP Ravenna](https://img.shields.io/badge/ADSP%20Ravenna-0066CC?style=for-the-badge)
+![ENOVIA](https://img.shields.io/badge/ENOVIA-6DB33F?style=for-the-badge)
 
 ## My GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=slendy98DX&show_icons=true&theme=tokyonight)
